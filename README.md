@@ -3,7 +3,7 @@
 <div id="user-content-toc">
   <ul align="center">
     <summary>
-      <h1 style="display: inline-block", align="center">Holas <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> soy Axel Wine </h1>
+      <h1>Holas <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> soy Axel Wine </h1>
       <br>
     <img src="https://pa1.aminoapps.com/6918/8249da5ff8151fd9b94da9fc6e0fbcacacf6abe7r1-200-200_hq.gif">
     </summary>
@@ -26,18 +26,20 @@
 
 # Proyectos estrella
 <div style="display: grid;grid-template-columns: repeat(auto-fit, minmax(316px, 3fr));text-align: -webkit-center;text-align: -mz-center;text-align: center;box-sizing: border-box;">
-  <!-- Favoc -->
-  <a href="https://favoc.me" style="text-decoration: none;">
-    <img src="img/favoc_card.png">
-  </a>
-  <!-- UwU Bot -->
-  <a href="https://axelwine.me/uwubot" style="text-decoration: none;">
-    <img src="img/uwubot_card.png">
-  </a>
-  <!-- SmartVoice -->
-  <a href="https://axelwine.me/smartvoice" style="text-decoration: none;">
-    <img src="img/smartvoice_card.png">
-  </a>
+  <center>
+      <!-- Favoc -->
+      <a href="https://favoc.me" style="text-decoration: none;">
+        <img src="img/favoc_card.png">
+      </a>
+      <!-- UwU Bot -->
+      <a href="https://axelwine.me/uwubot" style="text-decoration: none;">
+        <img src="img/uwubot_card.png">
+      </a>
+      <!-- SmartVoice -->
+      <a href="https://axelwine.me/smartvoice" style="text-decoration: none;">
+        <img src="img/smartvoice_card.png">
+      </a>
+    </center>
 </div>
 
 <!--<div style="display:flex;justify-content:end">
