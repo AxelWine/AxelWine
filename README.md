@@ -26,7 +26,8 @@
 
 # Proyectos estrella
 <div style="display: grid;grid-template-columns: repeat(auto-fit, minmax(316px, 3fr));text-align: -webkit-center;text-align: -mz-center;text-align: center;box-sizing: border-box;">
-  <center>
+  <ul align="center">
+    <summary>
       <!-- Favoc -->
       <a href="https://favoc.me" style="text-decoration: none;">
         <img src="img/favoc_card.png">
@@ -39,7 +40,8 @@
       <a href="https://axelwine.me/smartvoice" style="text-decoration: none;">
         <img src="img/smartvoice_card.png">
       </a>
-    </center>
+    </summary>
+  </ul>
 </div>
 
 <!--<div style="display:flex;justify-content:end">
